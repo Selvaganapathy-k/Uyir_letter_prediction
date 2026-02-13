@@ -1,4 +1,3 @@
-
 📝 Tamil Letter Image Processing
 
 This project focuses on preprocessing and analyzing Tamil handwritten / printed letters using OpenCV and Python.
@@ -52,7 +51,7 @@ The notebook includes:
 
 ▶️ How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/tamil-letter-processing.git
+git clone https://github.com/Selvaganapathy-k/Uyir_letter_prediction
 cd tamil-letter-processing
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
