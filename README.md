@@ -36,7 +36,6 @@ tamil-letter-processing
 
 ├── tamil.ipynb 
 
-├── sample_images
     
 ├── uyir_cnn_model.h5
 
