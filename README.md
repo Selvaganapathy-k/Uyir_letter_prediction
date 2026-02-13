@@ -1,15 +1,3 @@
-Nice 🔥 now this looks like a separate Tamil letter image processing project.
-Your README should clearly explain:
-
-What the project is
-
-What problem it solves
-
-What techniques you used
-
-How to run it
-
-You can copy everything below and paste into README.md.
 
 📝 Tamil Letter Image Processing
 
